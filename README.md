@@ -5,8 +5,8 @@
 
 **Name** : Sukrit Leelakornkij
 
-> *King Mongkut's Institute of Technology Ladkrabang*
+> *[King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th)*
 
 ```sh
-print("hello world")
+print("Hello Ladkrabang")
 ```
